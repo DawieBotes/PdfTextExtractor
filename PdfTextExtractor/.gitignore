@@ -1,0 +1,49 @@
+# Ignore Visual Studio and VS Code specific files
+.vscode/
+*.code-workspace
+
+# Ignore build and publish folders
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Ignore compiled executables and intermediate files
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.idb
+*.obj
+*.lib
+*.nupkg
+
+# Ignore package dependencies
+packages/
+.nuget/
+
+# Ignore build artifacts
+publish/
+
+# Ignore environment settings
+.env
+
+# Ignore Rider / JetBrains IDE files
+.idea/
+*.iml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
