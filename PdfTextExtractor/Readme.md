@@ -65,6 +65,3 @@ PdfTextExtractor document.pdf --no-comments
 ## License
 This tool is provided as-is. Modify and distribute as needed.
 
-## Author
-Developed by [Your Name or Organization].
-

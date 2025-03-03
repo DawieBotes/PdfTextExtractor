@@ -1,6 +1,6 @@
 # Pdf Text Extractor
 
-Released EXE in Release folder.
+Released EXE in released folder.
 
 To run or build code:
 ```
@@ -64,5 +64,4 @@ PdfTextExtractor document.pdf --no-comments
 
 ## License
 This tool is provided as-is. Modify and distribute as needed.
-
 
