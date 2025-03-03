@@ -1,6 +1,6 @@
 # Pdf Text Extractor
 
-Released EXE in released folder.
+Released EXE in Release folder.
 
 To run or build code:
 ```
